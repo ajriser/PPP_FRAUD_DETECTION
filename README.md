@@ -54,5 +54,6 @@ Finally, we also conducted exploratory studies on the resulting fraud-identified
 
 The way this study is designed, we approached it with the intention to aid analysts at SBA and other relevant agencies to help investigate fraud and gain insight into the PPP Loan dataset with the identification of probable PPP loan frauds.
 
-## Python notebook
-[Python code](https://github.com/ajriser/PPP_FRAUD_DETECTION/main/Master_Final.py)
+## Python notebook Report
+[Detailed Report pynb file](https://github.com/ajriser/PPP_FRAUD_DETECTION/main/Analysis_Report.pdf
+
