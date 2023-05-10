@@ -57,7 +57,7 @@ The way this study is designed, we approached it with the intention to aid analy
 ## Python notebook Report
 [Detailed Report pynb file](Analysis_Report.pdf)
 
-## POSTER
+## Poster
 [Fraud Detection Poster](POSTER PPP Fraud Detection.pdf)
 
 
