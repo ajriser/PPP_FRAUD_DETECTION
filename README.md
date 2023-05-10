@@ -19,6 +19,15 @@ The Paycheck Protection Program (PPP) is a loan program by the U.S. government i
 
 The project is aimed at exploring loan data from the Paycheck Protection Program (PPP), which provided relief to small and medium-sized businesses during the COVID-19 pandemic. The primary objective is to create graphical visualizations of the data and apply anomaly detection methods to identify potentially fraudulent loans. The project outline suggests a few starting points, including reviewing PPP loan program eligibility criteria, downloading the full PPP loan dataset and NAICS codes data dictionary for businesses, summarizing the data through tabular summaries and graphical visualizations, investigating loans that have a high potential for fraud by grouping together loans in common categories and identifying outlier loans, and exploring the use of traditional unsupervised learning techniques such as anomaly detection.
 
+## Dataset
+
+The dataset with PPP data is sourced from the official SBA website which can be accessed using the following URL:
+https://data.sba.gov/dataset/ppp-foia/resource/aab8e9f9-36d1-42e1-b3ba-e59c79f1d7f0?inner_span=True
+
+The dataset with NAICS code is sourced from https://www.sba.gov/document/support-table-size-standards
+
+Also geopandas .shp files have been used to plot state wise fraud in United States
+
 ## Evaluation
 
 The dataset is a collection of entries on the PPP Loan Fraud application form. There is no training or a test dataset. Initial review doesn't point towards any strong correlations and predictors that would categorize the problem as a predictive or a dependence exerceise. At first glance, the dataset seems to be a good fit for unsupervised outlier detection methods just as the Project Brief suggests. 
