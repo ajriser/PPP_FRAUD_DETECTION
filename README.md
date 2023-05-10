@@ -58,6 +58,6 @@ The way this study is designed, we approached it with the intention to aid analy
 [Detailed Report pynb file](Analysis_Report.pdf)
 
 ## Poster
-[Fraud Detection Poster](POSTER_PPP Fraud_Detection.pdf)
+[Fraud Detection Poster](POSTER_PPP_Fraud_Detection.pdf)
 
 
