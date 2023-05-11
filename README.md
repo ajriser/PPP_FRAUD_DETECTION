@@ -50,6 +50,13 @@ We employed two main approaches to Fraud Detection.
 
 In the cases above, we treated the high-risk and anomaly scores over a threshold as potentially fraudulent.
 
+## Key Findings
+
+1. Of the 1 million loan applications analyzed, more than 9% applications showed at least one indication of potential fraud. 
+2. Total 510 billion was approved for loans in the analyzed dataset, out of which 115 billion (22%) is tied to high-risk potentially fraudulent loan applications which is close to the estimated (20%) projected by analysts at state media agencies. 
+3. Although California, Texas, and New York had the highest amount of loans processed, Maine, Vermont, and Alabama state had the highest fraud-to-loan ratio.
+4. Found misrepresentation in multiple applications that applied through more than one lending agencies disclosing false information such as inconsistent job claims and business information while applying.
+
 Finally, we also conducted exploratory studies on the resulting fraud-identified data to find additional patterns, connections, and trends.
 
 The way this study is designed, we approached it with the intention to aid analysts at SBA and other relevant agencies to help investigate fraud and gain insight into the PPP Loan dataset with the identification of probable PPP loan frauds.
